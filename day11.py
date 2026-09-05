@@ -105,6 +105,7 @@ for c in s:
         count += 1
 print('Total z\'s and y\'s in given string is', count  )
 
+
 #13. check whether a number is prime number or not 
 n = int(input('Enter a number to check prime:  '))
 if n < 2:

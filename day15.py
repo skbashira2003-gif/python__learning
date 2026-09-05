@@ -17,6 +17,9 @@ def palindrome_number(n):
         return "Palindrome"
     else:
         return "Not a Palindrome"
+    
+    
+    
 
 
 print(palindrome_number(121))       # Output: Palindrome

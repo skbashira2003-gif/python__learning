@@ -1,4 +1,4 @@
-#DAY14: Nested loop 
+# Nested loop 
 
 age = 20
 has_id = True

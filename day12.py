@@ -1,6 +1,5 @@
 # WHILE LOOP
 
-
 # 1. Basic while loop - reverse counting
 
 n = 5

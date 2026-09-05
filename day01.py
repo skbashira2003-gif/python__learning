@@ -96,6 +96,7 @@ print("After:", a, b)      # Output: After: 20 10
 
 name = "Bashira"
 
+
 print(name)                # Output: Bashira
 
 del name
